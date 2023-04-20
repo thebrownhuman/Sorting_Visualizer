@@ -1,9 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
 function Selection_sort()
 {
@@ -60,8 +54,9 @@ function Selection_sort()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    ******************************
+
+    DONE BY:- Shivansh Mishra
+
+    ******************************
 */

@@ -1,9 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
 function Bubble()
 {
@@ -45,8 +39,9 @@ function Bubble()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    ******************************
+
+    DONE BY:- Shivansh Mishra
+
+    ******************************
 */

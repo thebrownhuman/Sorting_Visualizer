@@ -1,9 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
 function Quick()
 {
@@ -81,8 +75,9 @@ function quick_sort (start, end )
  }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    ******************************
+
+    DONE BY:- Shivansh Mishra
+
+    ******************************
 */

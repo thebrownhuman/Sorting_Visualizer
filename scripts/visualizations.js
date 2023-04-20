@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+
 
 //We only have to change background-color and height of the sorting element.
 
@@ -58,8 +53,9 @@ function enable_buttons()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    ******************************
+
+    DONE BY:- Shivansh Mishra
+
+    ******************************
 */

@@ -1,9 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
 function Insertion()
 {
@@ -57,8 +51,9 @@ function Insertion()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    ******************************
+
+    DONE BY:- Shivansh Mishra
+
+    ******************************
 */
