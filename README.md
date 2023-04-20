@@ -25,7 +25,7 @@ Features:
 
 ******************************
 
-DONE BY:- Shivansh Mishra
+Project made by- Shivansh Mishra
 @thebrownhuman
 
 ******************************
